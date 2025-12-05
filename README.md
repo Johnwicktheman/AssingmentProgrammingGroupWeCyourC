@@ -24,11 +24,13 @@ Task to do in order to run on:
 
 2.ToxicWords.txt
 
-3.main.c
+3.read.txt
 
-4.functions.c
+4.main.c
 
-5.Toxiclib.h
+5.functions.c
+
+6.Toxiclib.h
 
 **Sample Files for testing**
 
