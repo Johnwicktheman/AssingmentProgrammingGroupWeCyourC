@@ -17,3 +17,23 @@ Task to do in order to run on:
 **Visual Studio Community:**
 
 1.Add all the necessary files into one folder
+
+**All files that must be included:**
+
+1.Stopwords.txt
+
+2.ToxicWords.txt
+
+3.main.c
+
+4.functions.c
+
+5.Toxiclib.h
+
+**Sample Files for testing**
+1.Ultimate_testing.csv
+
+2.subject.txt
+
+3.industry.csv
+
